@@ -23,8 +23,9 @@ Contents
 ---
 maxdepth: 1
 ---
-   usage
-   test_page
+usage
+test_page
+
 ```
 
 Some **text**!
