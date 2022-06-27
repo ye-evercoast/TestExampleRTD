@@ -38,14 +38,14 @@ epub_show_urls = 'footnote'
 source_suffix = ['.rst', '.md']
 
 myst_enable_extensions = [
-    "amsmath",
-    "colon_fence",
-    "deflist",
+#    "amsmath",
+#    "colon_fence",
+#    "deflist",
     "dollarmath",
-    "fieldlist",
-    "html_admonition",
+#    "fieldlist",
+#    "html_admonition",
     "html_image",
-    "linkify",
+#    "linkify",
     "replacements",
     "smartquotes",
     "strikethrough",
